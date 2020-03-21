@@ -1,4 +1,4 @@
-# huhvictims
+# huh victims
 HUH victims 허경영으로 인한 피해
 
 ## 정치적인 주제는 다루지 않는다.
