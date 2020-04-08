@@ -27,7 +27,7 @@ HUH victims 허경영으로 인한 피해
 피해자가 없어질 때까지 계속 내용 업데이트할 예정
 
 ## 팩트출처
-업데이트 예정
+- [경향신문, [직설] 허경영과 1000명에 육박하는 출마자들](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=202003022051015)
 
 ## 제보환영
 구체적인 피해사실 혹은 추가 제보할 내용이 있다면 다소 생소하겠지만 github.com 계정을 생성해서 `Pull requests` 혹은 `Issues`에 글 작성 바람.
