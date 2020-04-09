@@ -31,6 +31,8 @@ HUH victims 허경영으로 인한 피해
 - [SBS, 궁금한 이야기 Y: 449회 스스로 신이 된 남자 허경영, 그가 노리는 것은 무엇인가?](https://programs.sbs.co.kr/culture/cube/vod/54887/22000334546)
 - [TV조선, "호화생활 뒤 피해자"…허경영이 사는 법](http://news.tvchosun.com/site/data/html_dir/2017/12/13/2017121390128.html)
 - [일요신문, [단독] ‘피해자들이 내용증명 보내 항의’ 허경영 성추행 진실공방](http://ilyo.co.kr/?ac=article_view&entry_id=334372)
+- [Netflix, Full Episode: Cults, Explained(사이비 종교를 해석하다)](https://www.youtube.com/watch?v=6NWIfiV1_XQ)
+
 ## 제보환영
 구체적인 피해사실 혹은 추가 제보할 내용이 있다면 다소 생소하겠지만 github.com 계정을 생성해서 `Pull requests` 혹은 `Issues`에 글 작성 바람.
 
