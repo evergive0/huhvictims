@@ -36,6 +36,7 @@ HUH victims 허경영으로 인한 피해
 - [일요신문, [단독] ‘피해자들이 내용증명 보내 항의’ 허경영 성추행 진실공방](http://ilyo.co.kr/?ac=article_view&entry_id=334372)
 - [Netflix, Full Episode: Cults, Explained(사이비 종교를 해석하다)](https://www.youtube.com/watch?v=6NWIfiV1_XQ)
 - [나무위키, 허경영 논란](https://namu.wiki/w/%ED%97%88%EA%B2%BD%EC%98%81/%EB%85%BC%EB%9E%80)
+- [SBS 그것이 알고싶다 735회, 신드롬 뒤에 숨겨진 진실, 허경영은 누구인가?](https://allvod.sbs.co.kr/allvod/vodEndPage.do?mdaId=22000003289)
 
 ## 제보환영
 구체적인 피해사실 혹은 추가 제보할 내용이 있다면 다소 생소하겠지만 github.com 계정을 생성해서 `Pull requests` 혹은 `Issues`에 글 작성 바람.
